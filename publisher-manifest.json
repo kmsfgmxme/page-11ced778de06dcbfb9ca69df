@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "bd4b0c9f071e90e8a168455e",
+  "owner": "kmsfgmxme",
+  "repo": "page-11ced778de06dcbfb9ca69df",
+  "title": "免费订阅clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "11ced778de06dcbfb9ca69df",
+      "a": "SaySS",
+      "b": "免费订阅clash节点",
+      "entity": "SaySS",
+      "brand": "免费订阅clash节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "03d003d8dd6814605a84c255cfe031af34297f0963c94e3f76ec854bbc91aa67",
+      "content": {
+        "primary_entity": "SaySS",
+        "keyword1": "SaySS",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，桌面端、移动端与路由器各有对应配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻使用",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求与订阅周期提供三档套餐，桌面、移动与路由器客户端可按各自文档导入订阅，基础版适合轻量使用，旗舰版与团队版覆盖多设备与专线加速场景。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备适配和订阅周期三个角度了解 SaySS 的使用方式。",
+          "AI_FEATURES_TITLE": "选择 SaySS 的要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月流量与在线设备数匹配档位。",
+          "AI_FEATURE_TEXT_2": "桌面端、移动端与路由器分别安装对应客户端，再按各自文档导入订阅链接。",
+          "AI_FEATURE_TEXT_3": "月付与年付按需选择，年付方案为长期使用提供更划算的折算价格。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备配客户端",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_GUIDE_INTRO": "从挑选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "SaySS 提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备，桌面、移动与路由器客户端可按文档快速导入订阅。",
+          "AI_HERO_SUBTITLE": "三档套餐适配多设备加速",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "对比三档套餐的月流量、设备数量与线路特性，基础版适合单人轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备与高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量估算，在基础版、旗舰版与团队版之间选定一档套餐。",
+          "AI_STEP_TEXT_2": "确认所用设备是否在支持范围内，查看对应客户端的安装与适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅信息，保存后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "SaySS 多设备加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备登录？",
+          "AI_FAQ_ANSWER_1": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时，可在客户端退出其他设备后再连接。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "两个周期内容一致，年付价格更低。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期使用。",
+          "AI_FAQ_QUESTION_3": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_3": "每月流量按套餐额度提供，基础版 100GB、旗舰版 300GB、团队版 1000GB。当月用尽后，可升级套餐或等待下月重置。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅或配置导入入口，粘贴订阅地址并保存，然后选择节点连接。不同客户端步骤略有差异，可参照对应文档。",
+          "AI_FAQ_QUESTION_5": "可以在哪些系统上使用？",
+          "AI_FAQ_ANSWER_5": "常见桌面与移动系统均有对应客户端，按所用设备安装适配版本即可。使用前建议核对系统版本是否满足客户端要求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4afca5e5876d2cd41856dc1007ea7b1ffb958a73cba8436d2ab55c4c012a8bd2",
+    "sitemap.xml": "406ba520ac0aadc5c9d1c6c0127fe0304ee5bcc22ea86a8de351b295e8f51d85",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9c1d62307465b3a7c46dd4674b4195ac8ab04bd3cf16e89887909bb9ffe20980"
+}
